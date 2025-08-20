@@ -24,7 +24,7 @@
 - ⚙️ Automatic synchronization of mods  
 - 🔐 Built-in encryption support for sensitive or premium assets  
 - 🚀 Server performance-first scripting architecture  
-- 🧩 Modern UI built with React  
+- 🧩 Modern UI built with React, VueJS, TypeScript and another
 - 💡 Clean, flexible, and customizable codebase  
 
 ---
