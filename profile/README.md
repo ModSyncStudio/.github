@@ -12,7 +12,7 @@
 
 ## 🔍 Overview
 
-> **ModSync Studio** is an independent project focused on developing **optimized**, **high-performance**, and **modular** scripts for **FiveM**.
+> **ModSync Studio** is an independent project focused on developing **optimized**, **high-performance**, and **modular** scripts for **FiveM** and other.
 
 > Our goal is to provide clean, secure, and performance-oriented solutions to improve the development and management of your FiveM server. We focus on modern tools, reliability, and flexibility—delivering both open-source and premium-quality features to the community.
 
